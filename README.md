@@ -30,6 +30,8 @@ Place the `EVM Disassembler` file inside `~/Library/Services/`.
 
 Open it with Automator, look for the "Run Shell Script" block and change the EVMDIS path to the full path of `evmdis` binary.
 
+<img src="https://github.com/evertonfraga/evmdis-macos-service/raw/master/images/evmdis-path-change.png">
+
 Save it and close Automator.
  
 
